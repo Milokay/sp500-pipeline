@@ -12,6 +12,7 @@ RUN pip install --no-cache-dir \
     requests \
     tqdm \
     lxml \
-    html5lib
+    html5lib \
+    python-dotenv
 
 WORKDIR /workspace
