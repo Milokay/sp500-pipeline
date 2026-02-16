@@ -1,0 +1,25 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+.venv/
+*.egg-info/
+sp500-portfolio/data/output/
+sp500-portfolio/data/sp500_cache.db
+
+# Node / Next.js
+sp500-dashboard/node_modules/
+sp500-dashboard/.next/
+sp500-dashboard/src/data/*.json
+
+# OS
+.DS_Store
+Thumbs.db
+
+# IDE
+.vscode/
+.idea/
+
+# Environment
+.env
+.env.local

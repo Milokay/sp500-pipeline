@@ -1,0 +1,9 @@
+data/sp500_cache.db
+data/output/*.xlsx
+.env
+__pycache__/
+*.pyc
+.venv/
+*.egg-info/
+dist/
+build/
